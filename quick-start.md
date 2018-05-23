@@ -84,7 +84,7 @@ Mybatis-Plus 通过 EntityWrapper（简称 EW，MP 封装的一个查询条件�
 
 ## 简单示例(ActiveRecord)
 
-ActiveRecord 一直广受动态语言（ PHP 、 Ruby 等）的喜爱，而 Java 作为准静态语言，对于 ActiveRecord 往往只能感叹其优雅，所以我们也在 AR 道路上进行了一定的探索，喜欢大家能够喜欢，也同时欢迎大家反馈意见与建议。
+ActiveRecord 一直广受动态语言（ PHP 、 Ruby 等）的喜爱，而 Java 作为准静态语言，对于 ActiveRecord 往往只能感叹其优雅，所以我们也在 AR 道路上进行了一定的探索，希望大家能够喜欢，也同时欢迎大家反馈意见与建议。
 
 我们如何使用 AR 模式？
 
